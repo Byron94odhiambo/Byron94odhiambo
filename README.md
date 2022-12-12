@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Byron94odhiambo
+- 👋 Hi, I’m Byron odhiambo
 - 👀 I’m interested in making life better for the coming generation
 - 🌱 I’m currently learning ... Artifificial Intelligence and Software development
 - 💞️ I’m looking to collaborate on opensource projects
