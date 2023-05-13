@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning ... Artifificial Intelligence and Software development
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me ...odhiambobyron39@gmail.com
+- Techstack
+- Backend Development :- Python(Django,Flask)
+- Frontend Development :- Figma,HTML,CSS and JavaScript
+- API :- REST,GraphQL
+- Data Science
 
 <!---
 Byron94odhiambo/Byron94odhiambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
