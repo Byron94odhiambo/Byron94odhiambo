@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me ...odhiambobyron39@gmail.com
 - Techstack
-- Backend Development :- Python(Django,Flask)
+- Backend Development :- Python(Django,Flask,Fast PI)
 - Frontend Development :- Figma,HTML,CSS, Flutter and JavaScript 
 - API :- REST,GraphQL
 - Data Science
